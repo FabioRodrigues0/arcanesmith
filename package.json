@@ -1,6 +1,7 @@
 {
-  "name": "arcane-smith",
+  "name": "arcanesmith",
   "version": "v1.0.0",
+  "author": "Fabio Rodrigues ('fabio.rod@outlook.pt')",
   "scripts": {
     "release": "semantic-release"
   },
