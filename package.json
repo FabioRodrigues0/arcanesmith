@@ -7,7 +7,7 @@
   "devDependencies": {
     "semantic-release": "^24.0.0",
     "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/commit-analyzer": "^8.0.0",  // Usar uma versão mais recente do commit-analyzer
+    "@semantic-release/commit-analyzer": "^8.0.0",
     "@semantic-release/git": "^10.0.0",
     "@semantic-release/github": "^7.0.0"
   }
