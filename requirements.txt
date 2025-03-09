@@ -1,0 +1,3 @@
+panda3d
+numpy >1.24.3
+pillow==10.0.0
