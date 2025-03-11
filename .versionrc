@@ -1,0 +1,14 @@
+{
+  "types": [
+    {"type": "feat", "section": "Functionalities"},
+    {"type": "fix", "section": "Fix Errors"},
+    {"type": "chore", "hidden": true},
+    {"type": "docs", "hidden": true},
+    {"type": "style", "hidden": true},
+    {"type": "refactor", "hidden": true},
+    {"type": "perf", "section": "Performance"},
+    {"type": "test", "hidden": true}
+    {"config": "config", "hidden": true}
+  ],
+  "releaseCommitMessageFormat": "chore(release): {{currentTag}} [skip ci]"
+}
